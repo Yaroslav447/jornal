@@ -1,0 +1,16 @@
+.celing
+{
+    background-color: lightblue;
+    border-radius: 0px 0px 12px 12px;
+}
+
+.logo
+{
+    width: 135px;
+    height: 100px;
+}
+.celing-text
+{
+    vertical-align: top;
+    margin-right: 136px;
+}

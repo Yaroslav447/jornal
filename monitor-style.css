@@ -1,0 +1,41 @@
+.table {
+	margin-bottom: 20px;
+	border: 1px solid #000000;
+	border-collapse: collapse; 
+}
+.table-head
+{
+    border-collapse: collapse;
+    border:1px solid #000000; 
+}
+.table-head td
+{
+    border-collapse: collapse;
+    border:1px solid #000000;
+    font-weight: bold;
+}
+.date-align
+{
+    align-items: center;
+}
+.logo
+{
+    width: 135px;
+    height: 100px;
+}
+.top
+{
+    background-color: blue;
+    border-radius: 0px 0px 12px 12px;
+}
+.page-title
+{
+    position: relative;
+    left: 150px;
+    bottom: 90px;;
+    font-family: arial;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    font-style: oblique;
+}
